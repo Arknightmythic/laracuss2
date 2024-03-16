@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/Arknightmythic/laracuss/issues"
   },
-  "homepage": "https://github.com/Arknightmythic/laracuss#readme"
+  "homepage": "https://github.com/Arknightmythic/laracuss#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
 }
